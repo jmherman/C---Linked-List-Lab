@@ -1,14 +1,14 @@
 # C---Linked-List-Lab
 Creating and using a linked list in C
 Files needed to run the program
-  -Makefile
-  -SurveyEntry.h
-  -node.h
-  -node.c
-  -list.h
-  -list.c
-  -main.h
-  -main.c
+-Makefile
+-SurveyEntry.h
+-node.h
+-node.c
+-list.h
+-list.c
+-main.h
+-main.c
   
 -Executable when compiled is called 'lab2'
 
