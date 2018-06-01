@@ -1,6 +1,6 @@
 # C---Linked-List-Lab
 Creating and using a linked list in C
-Files needed to run the program
+Files needed to run the program <br />
 -Makefile
 -SurveyEntry.h
 -node.h
