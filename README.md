@@ -1,6 +1,6 @@
 # C---Linked-List-Lab
 Creating and using a linked list in C
--Files needed to run the program
+Files needed to run the program
   -Makefile
   -SurveyEntry.h
   -node.h
@@ -12,13 +12,13 @@ Creating and using a linked list in C
   
 -Executable when compiled is called 'lab2'
 
--Makefile commands
+Makefile commands
   -make main: compiles just the main file
   -make node: compiles just the node file
   -made list: compiles just the list file
   -make all: compiles everything
   
-  -Files that can be used in this program
+ Files that can be used in this program
     -emptyMusic.bin
     -music.bin
     -music233.bin
