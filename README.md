@@ -18,7 +18,7 @@ Makefile commands <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -made list: compiles just the list file <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -make all: compiles everything <br />
   
- Files that can be used in this program
+ Files that can be used in this program <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -emptyMusic.bin <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -music.bin <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -music233.bin <br />
