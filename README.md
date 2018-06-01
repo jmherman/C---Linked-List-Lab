@@ -12,7 +12,7 @@ Files needed to run the program <br />
   
 -Executable when compiled is called 'lab2'
 
-Makefile commands
+Makefile commands <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -make main: compiles just the main file <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -make node: compiles just the node file <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -made list: compiles just the list file <br />
